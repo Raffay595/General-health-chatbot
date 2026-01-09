@@ -45,7 +45,7 @@ Instead, it focuses on providing **general health information** in a friendly an
 
 ---
 
-## 📊 Dataset and Training
+## Dataset and Training
 No dataset or training process was required for this task.  
 A pre-trained Large Language Model (**Mistral-7B-Instruct**) was used directly.
 
